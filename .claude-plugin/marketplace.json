@@ -1,0 +1,34 @@
+{
+  "name": "ppt-designer-marketplace",
+  "description": "Personal plugin marketplace hosting the ppt-designer PPT authoring plugin.",
+  "description_i18n": {
+    "en": "Personal plugin marketplace hosting the ppt-designer PPT authoring plugin.",
+    "zh-CN": "个人插件市场，收录 ppt-designer 演示文稿制作插件。"
+  },
+  "owner": {
+    "name": "liyu34"
+  },
+  "plugins": [
+    {
+      "name": "ppt-designer",
+      "description": "PPT/演示文稿制作插件：ppt-designer 子智能体（五阶段专业工作流）+ 5 种风格设计系统技能，产出可导入 Office 的整页 SVG。",
+      "description_i18n": {
+        "en": "PPT authoring plugin: ppt-designer subagent (five-stage professional workflow) + 5 style design-system skills. Outputs full-page SVG importable into Office.",
+        "zh-CN": "PPT/演示文稿制作插件：ppt-designer 子智能体（五阶段专业工作流）+ 5 种风格设计系统技能，产出可导入 Office 的整页 SVG。"
+      },
+      "version": "1.0.0",
+      "author": {
+        "name": "liyu34"
+      },
+      "category": "productivity",
+      "keywords": [
+        "ppt",
+        "slides",
+        "presentation",
+        "svg",
+        "agent",
+        "designer"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "ppt-designer",
+  "version": "1.0.0",
+  "description": "PPT/演示文稿制作插件：内置遵循专业五阶段工作流（需求调研→资料搜集→金字塔大纲→策划稿→设计稿）的 ppt-designer 子智能体，以及 5 种风格设计系统技能（科技发布会/商务咨询/杂志编辑/清新极简/新中式），产出可导入 Office 的整页 SVG。",
+  "description_i18n": {
+    "en": "PPT/presentation authoring plugin: a ppt-designer subagent following the professional five-stage workflow (research, sourcing, pyramid outline, layout plan, SVG design), plus 5 style design-system skills. Outputs full-page SVG importable into Office.",
+    "zh-CN": "PPT/演示文稿制作插件：内置遵循专业五阶段工作流（需求调研→资料搜集→金字塔大纲→策划稿→设计稿）的 ppt-designer 子智能体，以及 5 种风格设计系统技能（科技发布会/商务咨询/杂志编辑/清新极简/新中式），产出可导入 Office 的整页 SVG。"
+  },
+  "author": {
+    "name": "liyu34"
+  },
+  "agents": "agents",
+  "skills": "skills"
+}
